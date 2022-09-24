@@ -1,0 +1,15 @@
+C:\GeekBrains\Program\HW\FINAL\obj\Debug\net6.0\FINAL.csproj.AssemblyReference.cache
+C:\GeekBrains\Program\HW\FINAL\obj\Debug\net6.0\FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Program\HW\FINAL\obj\Debug\net6.0\FINAL.AssemblyInfoInputs.cache
+C:\GeekBrains\Program\HW\FINAL\obj\Debug\net6.0\FINAL.AssemblyInfo.cs
+C:\GeekBrains\Program\HW\FINAL\obj\Debug\net6.0\FINAL.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Program\HW\FINAL\bin\Debug\net6.0\FINAL.exe
+C:\GeekBrains\Program\HW\FINAL\bin\Debug\net6.0\FINAL.deps.json
+C:\GeekBrains\Program\HW\FINAL\bin\Debug\net6.0\FINAL.runtimeconfig.json
+C:\GeekBrains\Program\HW\FINAL\bin\Debug\net6.0\FINAL.dll
+C:\GeekBrains\Program\HW\FINAL\bin\Debug\net6.0\FINAL.pdb
+C:\GeekBrains\Program\HW\FINAL\obj\Debug\net6.0\FINAL.dll
+C:\GeekBrains\Program\HW\FINAL\obj\Debug\net6.0\refint\FINAL.dll
+C:\GeekBrains\Program\HW\FINAL\obj\Debug\net6.0\FINAL.pdb
+C:\GeekBrains\Program\HW\FINAL\obj\Debug\net6.0\FINAL.genruntimeconfig.cache
+C:\GeekBrains\Program\HW\FINAL\obj\Debug\net6.0\ref\FINAL.dll
